@@ -1,4 +1,6 @@
 # LegV8-Disassembler
 Disassembler for LegV8 in C
 
-The program takes binary command input from the user and stores it in a .txt file. Then the file is read line by line and checked for compliance before being translated into LegV8 commands.
+This program was made for the final project for CS205 at MHCC.
+The program takes binary commands from user input and stores them in a .txt file.
+The file is then read line by line and checks if the commands are valid before translating to LegV8 and outputting the result.
